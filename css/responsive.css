@@ -37,6 +37,10 @@
         flex-grow: 0;
     }
 
+    .btn {
+        padding: 10px 54px;
+    }
+
 
 }
    
