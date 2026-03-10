@@ -93,6 +93,10 @@
     justify-content: space-between;
     }
 
+    address {
+        text-align: left;
+    }
+
 
 }
    
