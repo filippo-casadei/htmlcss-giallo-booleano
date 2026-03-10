@@ -80,6 +80,7 @@
 
     .btn {
         display: flex;
+        padding: 10px 39px;
     }
 
     .social-networks .label {
