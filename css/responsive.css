@@ -78,5 +78,14 @@
         flex-basis: 70%;
     }
 
+    .btn {
+        display: flex;
+    }
+
+    .social-networks .label {
+        display: block;
+    }
+
+
 }
    
