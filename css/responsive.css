@@ -25,10 +25,18 @@
         font-size: 40px;
     }
 
-    .quick-notes {
+    .quick-notes ul {
         display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
     }
 
-    
+    .quick-notes li {
+        flex-basis: 30%;
+        flex-shrink: 0;
+        flex-grow: 0;
+    }
+
+
 }
    
