@@ -63,5 +63,9 @@
         display: block;
     }
 
+    .recipe-card {
+        display: flex;
+    }
+
 }
    
