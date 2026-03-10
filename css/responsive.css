@@ -18,6 +18,11 @@
 
     .recipe-origin {
         display: inline;
+        font-size: 40px;
+    }
+
+    .recipe-name {
+        font-size: 40px;
     }
 }
    
