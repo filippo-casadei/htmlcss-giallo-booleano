@@ -15,5 +15,9 @@
     main {
         padding: 40px;
     }
+
+    .recipe-origin {
+        display: inline;
+    }
 }
    
