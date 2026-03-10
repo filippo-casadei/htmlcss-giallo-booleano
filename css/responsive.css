@@ -67,5 +67,15 @@
         display: flex;
     }
 
+    .recipe-info {
+        display: flex;
+        flex-basis: 30%;
+    }
+
+    .recipe-video {
+        display: flex;
+        flex-basis: 70%;
+    }
+
 }
    
